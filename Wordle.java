@@ -5,7 +5,7 @@ import java.util.*;
 
 import javax.swing.*;
 
-public class Wordsendiz extends JFrame 
+public class Wordle extends JFrame 
 {
 	private WPanel[][] panels; 
 	
