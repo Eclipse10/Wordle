@@ -21,9 +21,9 @@ public class Wordle extends JFrame
 	private ArrayList<String> words;
 	private PopUpWindow message; 
 	
-	public Wordsendiz() 
+	public Wordle() 
 	{
-		super("Wordsendiz");
+		super("Wordle");
 		this.setSize(600, 600);
 		this.setResizable(true);
 		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
@@ -413,7 +413,7 @@ public class Wordle extends JFrame
 	
 	public static void main(String[] args)
 	{
-		Wordsendiz w = new Wordsendiz(); 
+		Wordle w = new Wordle(); 
 		
 
 		
